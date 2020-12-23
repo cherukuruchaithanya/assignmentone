@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 dev1
-=======
-bbbbb
->>>>>>> refs/remotes/origin/main
+
